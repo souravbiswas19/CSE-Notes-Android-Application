@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UIT CSE Notes App</string>
+    <string-array name="PDF_name">
+        <item>DSA Lecture 1-2</item>
+        <item>DSA Lecture 3-8</item>
+        <item>DSA Lecture 9-11</item>
+        <item>DSA Lecture 12-14</item>
+        <item>DSA Lecture 15-16</item>
+        <item>DSA Lecture 17-20</item>
+        <item>DSA Lecture 21-22</item>
+        <item>DiffCal 1</item>
+        <item>DiffCal 2</item>
+        <item>DiffCal 3</item>
+        <item>DiffCal 4</item>
+        <item>DiffCal 5</item>
+        <item>Explicit and Implicit Functions</item>
+        <item>Homogeneous Function</item>
+        <item>Jacobian</item>
+        <item>Limit and Continuity</item>
+        <item>Maxima and Minima</item>
+        <item>Lagrange Multiplier</item>
+        <item>Partial Derivatives</item>
+        <item>Partial Derivatives Examples</item>
+        <item>Taylor and Maclaurin</item>
+        <item>Digital Logic Book</item>
+        <item>Digital Project</item>
+        <item>Bio - Cell</item>
+        <item>Bio - Microbiology</item>
+        <item>Enzyme 1</item>
+        <item>Enzyme 2</item>
+        <item>Enzyme 3</item>
+        <item>Enzyme Reactions 1</item>
+        <item>Enzyme Reactions 2</item>
+        <item>Chromosomal Hierarchy</item>
+        <item>Sedra-Smith Analog Electronics</item>
+        <item>Hyperbolic Functions</item>
+        </string-array>
+</resources>
